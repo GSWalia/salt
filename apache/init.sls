@@ -7,6 +7,3 @@ htop:
 tmux:
  pkg:
    - installed
-screen:
- pkg:  
-   - installed 
