@@ -7,3 +7,6 @@ htop:
 tmux:
  pkg:
    - installed
+screen-x:
+ pkg:
+   - installed
